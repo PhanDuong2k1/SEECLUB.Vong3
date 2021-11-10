@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Bé à!',
     introDesc: `Trái đất vốn lạ thường
     , mà sao em cứ đi nhầm đường
-    . Lạc vào S.E.E. đây mất rồi
+    . Lạc vào tim S.E.E. đây mất rồi
     . Đằng sau chữ yêu đây là NHÀ`,
     btnIntro: 'Hihi',
     title: 'Phải chăng em đã yêu S.E.E ngay từ cái nhìn đầu tiên 😙',
