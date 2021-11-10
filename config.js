@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Bé à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào S.E.E. đây mất rồi
-    Đằng sau chữ yêu đây là NHÀ`,
+    \n Mà sao em cứ đi nhầm đường
+    \n Lạc vào S.E.E. đây mất rồi
+    \n Đằng sau chữ yêu đây là NHÀ`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu S.E.E ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy chúng tôi nà',
