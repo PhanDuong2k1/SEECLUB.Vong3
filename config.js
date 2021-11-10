@@ -5,8 +5,8 @@ const CONFIG = {
     Lạc vào tim S.E.E. đây mất rồi.
     Đằng sau chữ yêu đây là NHÀ!`,
     btnIntro: 'Hihi',
-    title: 'Phải chăng em đã yêu S.E.E. ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy chúng tôi này',
+    title: 'Phải chăng em đã yêu S.E.E. ngay từ cái nhìn đầu tiên 😙 Phải chăng em đã say ngay từ lúc thấy chúng tôi này',
+    desc: '',
     btnYes: 'Thích S.E.E. thôi <3',
     btnNo: 'Không :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao BÉ lại yêu S.E.E. <3',
