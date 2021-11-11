@@ -1,7 +1,7 @@
 $(document).ready(function() {
     // process bar
     setTimeout(function() {
-        firstQuestion();
+        
         $('.spinner').fadeOut();
         $('#preloader').delay(350).fadeOut('slow');
         $('body').delay(350).css({
@@ -11,6 +11,17 @@ $(document).ready(function() {
 })
 
 function init(){
+     Swal.fire({
+                width: 900,
+                confirmButtonText: CONFIG.btnAccept,
+                background: '#fff url("img/iput-bg.jpg")',
+                title: CONFIG.mess,
+                text: CONFIG.messDesc,
+                confirmButtonColor: '#83d0c9',
+                onClose: () => {
+                    window.location = CONFIG.messLink;
+                  }
+            })
     $('#title').text(CONFIG.title)
     $('#desc').text(CONFIG.desc)
     $('#yes').text(CONFIG.btnYes)
