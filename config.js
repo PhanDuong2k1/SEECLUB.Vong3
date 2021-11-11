@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'S.E.E. biết mà 🥰. Yêu bé nhiều nhiều 😘',
     messDesc: 'Tối nay 8h lên Gather trò chuyện cùng S.E.E. nha :v',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/SEECLUB.YDS' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://gather.town/app/KxrQmaI130ppvJcH/SEE%20HOME' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
