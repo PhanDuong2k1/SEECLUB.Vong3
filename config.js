@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao BÉ lại yêu S.E.E. <3',
     btnReply: 'Gửi cho S.E.E. <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'S.E.E. biết mà 🥰. Yêu bé nhiều nhiều 😘',
-    messDesc: 'Tối nay 8h lên Gather trò chuyện cùng S.E.E. nha :v',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://gather.town/app/KxrQmaI130ppvJcH/SEE%20HOME' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    mess: 'S.E.E. xin cảm ơn bạn đã dành thời gian tham chương trình UMP's Diary',
+    messDesc: 'S.E.E. gửi bạ danh sách tham gia chương trình',
+    btnAccept: 'Mở danh sách',
+    messLink: 'https://www.facebook.com/SEECLUB.YDS' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
